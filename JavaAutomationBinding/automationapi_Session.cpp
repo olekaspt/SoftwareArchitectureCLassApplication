@@ -12,13 +12,12 @@ void JNICALL Java_automationapi_Session_initSession
 	initializeProduct() ;
 }
 
-/*
- * Class:     automationapi_Session
+/*)
  * Method:    makePart
  * Signature: (Ljava/lang/String;)Lautomationapi/Part;
  */
 jobject JNICALL Java_automationapi_Session_makePart
-(JNIEnv* env, jobject theSession, jstring partPath)
+(JNIEnv* env, jobject theSession, jstring partPath	)
 {
 	std::string partFilePath;
 	const char* nameCharPointer = env->GetStringUTFChars(partPath, NULL);

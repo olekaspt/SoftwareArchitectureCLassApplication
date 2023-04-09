@@ -9,3 +9,5 @@ Session theSession = Session.GetSession;
 Part thePart = theSession.MakePart("SomePart.prt");
 
 thePart.Save();
+
+String a= Console.ReadLine();
