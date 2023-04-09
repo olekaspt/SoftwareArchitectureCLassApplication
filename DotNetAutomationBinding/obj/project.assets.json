@@ -15617,23 +15617,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\polek\\.nuget\\packages\\": {},
+    "C:\\Users\\Gaurav\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
+      "projectUniqueName": "C:\\Users\\Gaurav\\Source\\Repos\\SoftwareArchitectureCLassApplication07\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
       "projectName": "DotNetAutomationBinding",
-      "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
-      "packagesPath": "C:\\Users\\polek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\obj\\",
+      "projectPath": "C:\\Users\\Gaurav\\Source\\Repos\\SoftwareArchitectureCLassApplication07\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
+      "packagesPath": "C:\\Users\\Gaurav\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gaurav\\Source\\Repos\\SoftwareArchitectureCLassApplication07\\DotNetAutomationBinding\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\polek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gaurav\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -15648,8 +15648,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj": {
-              "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj"
+            "C:\\Users\\Gaurav\\Source\\Repos\\SoftwareArchitectureCLassApplication07\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj": {
+              "projectPath": "C:\\Users\\Gaurav\\Source\\Repos\\SoftwareArchitectureCLassApplication07\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj"
             }
           }
         }
