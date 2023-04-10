@@ -32,7 +32,7 @@ namespace DotNetAutomationBinding
 
         public Part MakePart(string pathName)
         {
-            Part partpart = null;
+            Part partpart = new(DotNet_automationapi_Session_MakePart(pathName));
 
 
             return partpart;
