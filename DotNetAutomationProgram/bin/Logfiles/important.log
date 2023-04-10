@@ -1,0 +1,6 @@
+000001: <critical>	Product Core is Initialized
+000004: <warning>	Something bad is going on but I can handle it
+000005: <warning>	Product Core is Initialized
+000006: <critical>	Everything crumbles, shoot me now!
+000007: <critical>	Product Core is Initialized
+000008: <normal>	[IMPORTANT_MESSAGE] An important message
