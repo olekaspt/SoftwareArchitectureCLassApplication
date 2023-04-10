@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OaXBhRqDpfrEuFR6u9zB55BN64z/fQjHHhzY1g8h9rbjZHvCqgxaqqZzvf/dama/8sHqrlgKRR+uCMYMj4xF2g==",
+  "dgSpecHash": "3PTVVqsdMsY52uyekrghizcgvhz8lSZ+5Ko0NwTTToJllEIInQhytcJzUIcpacM4atAIxs6mMyXe9OKQnK2yCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj",
+  "projectFilePath": "C:\\Users\\hudso\\Source\\Repos\\SoftwareArchitectureCLassApplication2\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\polek\\.nuget\\packages\\boost\\1.81.0\\boost.1.81.0.nupkg.sha512"
+    "C:\\Users\\hudso\\.nuget\\packages\\boost\\1.81.0\\boost.1.81.0.nupkg.sha512"
   ],
   "logs": []
 }
