@@ -10,13 +10,14 @@
 #include "../Core/Core.h"
 
 
-
 extern void DotNet_automationapi_Session_InitializeSession(void)
 {
-	initializeProduct();
+		// Initialize the DotNetAutomation system
+		initializeProduct();
+		// Initialize any other components or resources as needed
+		// ...
+
 }
-
-
 
 extern int DotNet_automationapi_Session_MakePart(char* partPath)
 {

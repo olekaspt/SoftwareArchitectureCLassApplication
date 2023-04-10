@@ -19,7 +19,6 @@ namespace DotNetAutomationBinding
             DotNet_automationapi_Session_InitializeSession();
         }
 
-
         private static readonly Lazy<Session> lazy = new Lazy<Session>(() => new Session());
         public static Session GetSession
         {
@@ -32,8 +31,7 @@ namespace DotNetAutomationBinding
 
         public Part MakePart(string pathName)
         {
-            Part partpart = null;
-
+            Part partpart = new Part(DotNet_automationapi_Session_MakePart(pathName));
 
             return partpart;
         }

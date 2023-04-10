@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj": {}
+    "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj": {}
   },
   "projects": {
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppLibrary\\AppLibrary.vcxproj": {
+    "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppLibrary\\AppLibrary.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppLibrary\\AppLibrary.vcxproj",
+        "projectUniqueName": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppLibrary\\AppLibrary.vcxproj",
         "projectName": "AppFeatureOps",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppLibrary\\AppLibrary.vcxproj",
+        "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppLibrary\\AppLibrary.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppsCore\\AppsCore.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppsCore\\AppsCore.vcxproj"
+              "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppsCore\\AppsCore.vcxproj": {
+                "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppsCore\\AppsCore.vcxproj"
               },
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj"
+              "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Core\\Core.vcxproj": {
+                "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Core\\Core.vcxproj"
               },
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DataReader\\DataReader.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DataReader\\DataReader.vcxproj"
+              "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DataReader\\DataReader.vcxproj": {
+                "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DataReader\\DataReader.vcxproj"
               },
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Journaling\\Journaling.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Journaling\\Journaling.vcxproj"
+              "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Journaling\\Journaling.vcxproj": {
+                "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Journaling\\Journaling.vcxproj"
               }
             }
           }
@@ -32,22 +32,22 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppPartOps\\AppPartOps.vcxproj": {
+    "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppPartOps\\AppPartOps.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppPartOps\\AppPartOps.vcxproj",
+        "projectUniqueName": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppPartOps\\AppPartOps.vcxproj",
         "projectName": "AppPartOps",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppPartOps\\AppPartOps.vcxproj",
+        "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppPartOps\\AppPartOps.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppLibrary\\AppLibrary.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppLibrary\\AppLibrary.vcxproj"
+              "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppLibrary\\AppLibrary.vcxproj": {
+                "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppLibrary\\AppLibrary.vcxproj"
               },
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj"
+              "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Core\\Core.vcxproj": {
+                "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Core\\Core.vcxproj"
               },
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Journaling\\Journaling.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Journaling\\Journaling.vcxproj"
+              "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Journaling\\Journaling.vcxproj": {
+                "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Journaling\\Journaling.vcxproj"
               }
             }
           }
@@ -57,11 +57,11 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppsCore\\AppsCore.vcxproj": {
+    "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppsCore\\AppsCore.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppsCore\\AppsCore.vcxproj",
+        "projectUniqueName": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppsCore\\AppsCore.vcxproj",
         "projectName": "AppsCore",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppsCore\\AppsCore.vcxproj",
+        "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppsCore\\AppsCore.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {}
@@ -72,11 +72,11 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj": {
+    "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Core\\Core.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj",
+        "projectUniqueName": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Core\\Core.vcxproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj",
+        "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Core\\Core.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {}
@@ -87,16 +87,16 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DataReader\\DataReader.vcxproj": {
+    "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DataReader\\DataReader.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DataReader\\DataReader.vcxproj",
+        "projectUniqueName": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DataReader\\DataReader.vcxproj",
         "projectName": "DataReader",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DataReader\\DataReader.vcxproj",
+        "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DataReader\\DataReader.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj"
+              "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Core\\Core.vcxproj": {
+                "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Core\\Core.vcxproj"
               }
             }
           }
@@ -106,21 +106,17 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj": {
+    "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
+        "projectUniqueName": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
         "projectName": "DotNetAutomationBinding",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
-        "packagesPath": "C:\\Users\\polek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\obj\\",
+        "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
+        "packagesPath": "C:\\Users\\adoni\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DotNetAutomationBinding\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\polek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\adoni\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -134,8 +130,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj"
+              "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj": {
+                "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj"
               }
             }
           }
@@ -171,26 +167,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj": {
+    "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj",
+        "projectUniqueName": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj",
         "projectName": "DotNetAutomationNative",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj",
+        "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppPartOps\\AppPartOps.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppPartOps\\AppPartOps.vcxproj"
+              "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppPartOps\\AppPartOps.vcxproj": {
+                "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppPartOps\\AppPartOps.vcxproj"
               },
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppsCore\\AppsCore.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppsCore\\AppsCore.vcxproj"
+              "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppsCore\\AppsCore.vcxproj": {
+                "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\AppsCore\\AppsCore.vcxproj"
               },
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj"
+              "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Core\\Core.vcxproj": {
+                "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Core\\Core.vcxproj"
               }
             }
           }
@@ -200,16 +196,16 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Journaling\\Journaling.vcxproj": {
+    "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Journaling\\Journaling.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Journaling\\Journaling.vcxproj",
+        "projectUniqueName": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Journaling\\Journaling.vcxproj",
         "projectName": "Journaling",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Journaling\\Journaling.vcxproj",
+        "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Journaling\\Journaling.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj"
+              "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Core\\Core.vcxproj": {
+                "projectPath": "C:\\Users\\adoni\\git\\SoftwareArchitectureApplication\\Core\\Core.vcxproj"
               }
             }
           }
