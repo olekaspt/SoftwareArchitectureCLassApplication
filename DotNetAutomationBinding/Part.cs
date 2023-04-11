@@ -9,14 +9,16 @@ namespace DotNetAutomationBinding
 {
     public class Part
     {
-        //TODO to setup the PINVOKE for save
+        //Import the DLL for .NET automation
+        [DllImport("DotNetAutomationNative", CallingConvention = CallingConvention.Cdecl)]
+        //Autmation API function to save the part
+        static extern void AutomationAPISavePart(int guid);
 
 
 
         public void Save()
         {
-            //TODO
-
+            AutomationAPISavePart(m_guid); //call to save the part
         }
 
         public Part(int guid)  
