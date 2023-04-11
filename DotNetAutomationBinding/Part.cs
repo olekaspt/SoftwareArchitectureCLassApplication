@@ -10,12 +10,12 @@ namespace DotNetAutomationBinding
     public class Part
     {
         //TODO to setup the PINVOKE for save
-
+        [DllImport("DotNetAutomationNative", CallingConvention = CallingConvention.Cdecl, CharSet = CharSet.Ansi)]
 
 
         public void Save()
         {
-            //TODO
+            DotNet_automationapi_Part_Save(m_guid);
 
         }
 

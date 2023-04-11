@@ -32,10 +32,8 @@ namespace DotNetAutomationBinding
 
         public Part MakePart(string pathName)
         {
-            Part partpart = null;
-
-
-            return partpart;
+            int guid = DotNet_automationapi_Session_MakePart(pathName);
+            return new Part(guid);
         }
 
     }
