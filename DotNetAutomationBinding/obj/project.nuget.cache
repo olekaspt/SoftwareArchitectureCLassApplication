@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PGGmfxUeiNseW+rpxMGU7cowoANhJztKJ9DLFCtx597J7Hikeq5EaYcqb4J6TUveCtGjbRL+cYvEWgrsfjH18w==",
+  "dgSpecHash": "x6HKPnNhredcZFbn17HR5HgsLPs5FNc4glNqdf5r9zqbYFB5OqvGWqUS4Lafl4AzYmqTVgD3NqJSWU6MucDh1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
+  "projectFilePath": "C:\\Users\\Himakar\\source\\repos\\SoftwareArchitectureCLassApplication\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\polek\\.nuget\\packages\\boost\\1.81.0\\boost.1.81.0.nupkg.sha512"
+    "C:\\Users\\Himakar\\.nuget\\packages\\boost\\1.81.0\\boost.1.81.0.nupkg.sha512",
+    "C:\\Users\\Himakar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.4\\microsoft.windowsdesktop.app.ref.7.0.4.nupkg.sha512",
+    "C:\\Users\\Himakar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.4\\microsoft.netcore.app.ref.7.0.4.nupkg.sha512",
+    "C:\\Users\\Himakar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.4\\microsoft.aspnetcore.app.ref.7.0.4.nupkg.sha512"
   ],
   "logs": []
 }
