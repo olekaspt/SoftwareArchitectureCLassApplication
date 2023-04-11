@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Formats.Tar;
 using System.Runtime.InteropServices;
 
 namespace DotNetAutomationBinding
@@ -32,9 +33,8 @@ namespace DotNetAutomationBinding
 
         public Part MakePart(string pathName)
         {
-            Part partpart = null;
-
-
+            int guid = DotNet_automationapi_Session_MakePart(pathName);
+            Part partpart = new Part(guid);
             return partpart;
         }
 
