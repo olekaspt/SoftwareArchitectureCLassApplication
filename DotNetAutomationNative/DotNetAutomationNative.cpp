@@ -3,6 +3,7 @@
 
 #include "framework.h"
 #include "DotNetAutomationNative.h"
+// Provided by the AppHost NuGet package and installed as an SDK pack
 
 #include <string>
 #include "../AppPartOps/Journaling_Session.h"
@@ -10,10 +11,11 @@
 #include "../Core/Core.h"
 
 
-
 extern void DotNet_automationapi_Session_InitializeSession(void)
 {
+	// calling initializeProduct method in core.cpp
 	initializeProduct();
+
 }
 
 
