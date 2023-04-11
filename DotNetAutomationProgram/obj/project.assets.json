@@ -15636,24 +15636,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\polek\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\vaish\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj",
+      "projectUniqueName": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj",
       "projectName": "DotNetAutomationProgram",
-      "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj",
-      "packagesPath": "C:\\Users\\polek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationProgram\\obj\\",
+      "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj",
+      "packagesPath": "C:\\Users\\vaish\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationProgram\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\polek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\vaish\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -15667,8 +15662,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj": {
-              "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj"
+            "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj": {
+              "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj"
             }
           }
         }
@@ -15704,7 +15699,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
