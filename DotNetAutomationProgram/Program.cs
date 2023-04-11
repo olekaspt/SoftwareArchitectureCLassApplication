@@ -8,7 +8,7 @@ namespace DotNetAutomationConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World from DotNetAutomationConsoleApp!");
+            Console.WriteLine("Hello, World from DotNetAutomationConsoleApp! Team7");
 
             Session theSession = Session.GetSession;
             
