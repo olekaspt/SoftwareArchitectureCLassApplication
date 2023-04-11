@@ -1,11 +1,17 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 using DotNetAutomationBinding;
 
-Console.WriteLine("Hello, World!");
+static void main()
+{
+
+    Console.WriteLine("Hello, World!");
 
 
-Session theSession = Session.GetSession;
+    Session theSession = Session.GetSession;
 
-Part thePart = theSession.MakePart("SomePart.prt");
+    Part thePart = theSession.MakePart("SomePart.prt");
 
-thePart.Save();
+    thePart.Save();
+    Console.Write("Successfully Saved Part");
+}

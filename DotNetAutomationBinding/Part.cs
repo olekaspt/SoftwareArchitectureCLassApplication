@@ -9,22 +9,20 @@ namespace DotNetAutomationBinding
 {
     public class Part
     {
-        //TODO to setup the PINVOKE for save
-
-
+        [DllImport("DotNetAutomationNative", CallingConvention = CallingConvention.Cdecl)]
+        static extern void DotNet_automationapi_Part_Save(int id);
 
         public void Save()
         {
-            //TODO
-
+            DotNet_automationapi_Part_Save(dankID);
         }
 
-        public Part(int guid)  
+        public Part(int id)
         {
-            m_guid = guid;
+            dankID = id;
         }
 
-        private int m_guid;
+        private int dankID;
 
     }
 }

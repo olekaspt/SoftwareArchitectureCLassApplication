@@ -32,10 +32,11 @@ namespace DotNetAutomationBinding
 
         public Part MakePart(string pathName)
         {
-            Part partpart = null;
+            Console.Write(pathName);
+            int id = DotNet_automationapi_Session_MakePart(pathName);
 
-
-            return partpart;
+            Part dankPart = new Part(id);
+            return dankPart;
         }
 
     }
