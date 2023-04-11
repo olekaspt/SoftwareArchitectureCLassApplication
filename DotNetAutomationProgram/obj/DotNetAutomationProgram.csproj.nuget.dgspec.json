@@ -1,28 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj": {}
+    "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppLibrary\\AppLibrary.vcxproj": {
+    "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppLibrary\\AppLibrary.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppLibrary\\AppLibrary.vcxproj",
+        "projectUniqueName": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppLibrary\\AppLibrary.vcxproj",
         "projectName": "AppFeatureOps",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppLibrary\\AppLibrary.vcxproj",
+        "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppLibrary\\AppLibrary.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppsCore\\AppsCore.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppsCore\\AppsCore.vcxproj"
+              "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppsCore\\AppsCore.vcxproj": {
+                "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppsCore\\AppsCore.vcxproj"
               },
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj"
+              "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Core\\Core.vcxproj": {
+                "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Core\\Core.vcxproj"
               },
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DataReader\\DataReader.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DataReader\\DataReader.vcxproj"
+              "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DataReader\\DataReader.vcxproj": {
+                "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DataReader\\DataReader.vcxproj"
               },
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Journaling\\Journaling.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Journaling\\Journaling.vcxproj"
+              "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Journaling\\Journaling.vcxproj": {
+                "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Journaling\\Journaling.vcxproj"
               }
             }
           }
@@ -32,22 +32,22 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppPartOps\\AppPartOps.vcxproj": {
+    "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppPartOps\\AppPartOps.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppPartOps\\AppPartOps.vcxproj",
+        "projectUniqueName": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppPartOps\\AppPartOps.vcxproj",
         "projectName": "AppPartOps",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppPartOps\\AppPartOps.vcxproj",
+        "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppPartOps\\AppPartOps.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppLibrary\\AppLibrary.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppLibrary\\AppLibrary.vcxproj"
+              "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppLibrary\\AppLibrary.vcxproj": {
+                "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppLibrary\\AppLibrary.vcxproj"
               },
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj"
+              "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Core\\Core.vcxproj": {
+                "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Core\\Core.vcxproj"
               },
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Journaling\\Journaling.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Journaling\\Journaling.vcxproj"
+              "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Journaling\\Journaling.vcxproj": {
+                "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Journaling\\Journaling.vcxproj"
               }
             }
           }
@@ -57,11 +57,11 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppsCore\\AppsCore.vcxproj": {
+    "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppsCore\\AppsCore.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppsCore\\AppsCore.vcxproj",
+        "projectUniqueName": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppsCore\\AppsCore.vcxproj",
         "projectName": "AppsCore",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppsCore\\AppsCore.vcxproj",
+        "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppsCore\\AppsCore.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {}
@@ -72,11 +72,11 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj": {
+    "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Core\\Core.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj",
+        "projectUniqueName": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Core\\Core.vcxproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj",
+        "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Core\\Core.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {}
@@ -87,16 +87,16 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DataReader\\DataReader.vcxproj": {
+    "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DataReader\\DataReader.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DataReader\\DataReader.vcxproj",
+        "projectUniqueName": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DataReader\\DataReader.vcxproj",
         "projectName": "DataReader",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DataReader\\DataReader.vcxproj",
+        "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DataReader\\DataReader.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj"
+              "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Core\\Core.vcxproj": {
+                "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Core\\Core.vcxproj"
               }
             }
           }
@@ -106,21 +106,17 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj": {
+    "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
+        "projectUniqueName": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
         "projectName": "DotNetAutomationBinding",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
-        "packagesPath": "C:\\Users\\polek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\obj\\",
+        "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj",
+        "packagesPath": "C:\\Users\\vaish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationBinding\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\polek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\vaish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -134,8 +130,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj"
+              "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj": {
+                "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj"
               }
             }
           }
@@ -171,26 +167,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj": {
+    "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj",
+        "projectUniqueName": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj",
         "projectName": "DotNetAutomationNative",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj",
+        "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationNative\\DotNetAutomationNative.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppPartOps\\AppPartOps.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppPartOps\\AppPartOps.vcxproj"
+              "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppPartOps\\AppPartOps.vcxproj": {
+                "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppPartOps\\AppPartOps.vcxproj"
               },
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppsCore\\AppsCore.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\AppsCore\\AppsCore.vcxproj"
+              "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppsCore\\AppsCore.vcxproj": {
+                "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\AppsCore\\AppsCore.vcxproj"
               },
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj"
+              "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Core\\Core.vcxproj": {
+                "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Core\\Core.vcxproj"
               }
             }
           }
@@ -200,21 +196,17 @@
         "native": {}
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj": {
+    "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj",
+        "projectUniqueName": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj",
         "projectName": "DotNetAutomationProgram",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj",
-        "packagesPath": "C:\\Users\\polek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationProgram\\obj\\",
+        "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationProgram\\DotNetAutomationProgram.csproj",
+        "packagesPath": "C:\\Users\\vaish\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationProgram\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\polek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\vaish\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -228,8 +220,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj"
+              "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj": {
+                "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\DotNetAutomationBinding\\DotNetAutomationBinding.csproj"
               }
             }
           }
@@ -265,20 +257,20 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Journaling\\Journaling.vcxproj": {
+    "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Journaling\\Journaling.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Journaling\\Journaling.vcxproj",
+        "projectUniqueName": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Journaling\\Journaling.vcxproj",
         "projectName": "Journaling",
-        "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Journaling\\Journaling.vcxproj",
+        "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Journaling\\Journaling.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {
-              "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj": {
-                "projectPath": "C:\\Users\\polek\\source\\repos\\SoftwareArchitectureCLassApplication_mar\\Core\\Core.vcxproj"
+              "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Core\\Core.vcxproj": {
+                "projectPath": "C:\\Users\\vaish\\Source\\Repos\\SoftwareArchitectureCLassApplication-1\\Core\\Core.vcxproj"
               }
             }
           }
